@@ -1,0 +1,5 @@
+node_modules
+babel.config.js
+.coverage
+.DS_Store
+setup.sh
